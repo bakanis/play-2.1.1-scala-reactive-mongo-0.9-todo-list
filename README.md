@@ -92,3 +92,5 @@ POST    /tasks/:id/delete       	controllers.Application.deleteTask(id: Long)
 
 8.
 
+pasto kodai
+http://www.pasto-kodai.com
